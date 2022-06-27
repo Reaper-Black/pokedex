@@ -5,7 +5,7 @@ const Main = () => {
         <>
         <div className="container">
             <div className="left-content">    
-
+            <Card />
             </div>
             <div className="right-content">
 

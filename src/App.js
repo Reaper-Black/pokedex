@@ -1,8 +1,12 @@
-import './App.css';
+import * as React from "react";
+import Main from "./components/Main";
+import "./components/styles.css"
 
 function App() {
   return (
-   <div></div>
+   <>
+      <Main/>
+   </>
   );
 }
 
