@@ -25,7 +25,7 @@ body{
 .card{
     width: 300px;
     background-color:#F8485E;
-    border-radius: 3rem;
+    border-radius: 1rem;
     box-shadow: 0 5px 5px rgba(0,0,0,0.5);
     padding: 0 1.5rem;
     display: flex;
