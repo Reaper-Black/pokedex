@@ -8,6 +8,10 @@ const Main = () => {
         <div className="container">
             <div className="left-content">    
             <Card />
+            <div className="btn-group">
+                <button>Previous</button>
+                <button>Next</button>
+            </div>
             </div>
             <div className="right-content">
                 <Pokeinfo/>
