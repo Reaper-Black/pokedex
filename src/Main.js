@@ -33,6 +33,7 @@ const Main=()=>{
     }
     useEffect(()=>{
         pokeFun();
+        // eslint-disable-next-line
     },[url])
     return(
         <>
